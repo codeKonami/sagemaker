@@ -1,8 +1,12 @@
 {
   "name": "sagemaker",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Invoke sage maker endpoints",
   "main": "index.js",
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/codeKonami/sagemaker.git"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
