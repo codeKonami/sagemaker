@@ -1,4 +1,4 @@
-Sage Marker invoke
+Sage Maker invoke
 =====
 
 Just some sugar on top of Sage Maker to invoke some endpoints easily.
