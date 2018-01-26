@@ -1,0 +1,14 @@
+{
+  "name": "sagemaker",
+  "version": "0.0.2",
+  "description": "Invoke sage maker endpoints",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "codeKonami",
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "^2.187.0"
+  }
+}
